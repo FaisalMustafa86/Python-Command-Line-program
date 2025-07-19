@@ -17,7 +17,7 @@ def main():
         if command.lower() == "exit":
             return True
         elif command.lower()== "quit":
-            return False
+            return True
 
 #------time------
         elif command=="time":
