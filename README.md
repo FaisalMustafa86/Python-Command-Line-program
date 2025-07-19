@@ -21,7 +21,7 @@ A beginner-friendly Python-based **command-line assistant** that helps users per
 
 ## 🖥️ How to Run
 
-1### 1. Clone the repository:
+### 1. Clone the repository:
 If you're using **VS Code** or another IDE:
 - Click on **"Clone Git Repository"** or use GitHub Desktop to clone the repo.
 - Or use this command in terminal:
